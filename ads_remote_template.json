@@ -1,0 +1,12 @@
+{
+  "ads_enabled": true,
+  "app_open_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "native_enabled": true,
+  "admob_app_open_id": "ca-app-pub-3940256099942544/9257774110",
+  "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_interval": 1
+}
